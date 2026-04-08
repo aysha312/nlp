@@ -12,7 +12,7 @@ This project provides endpoints for sentiment analysis, named entity recognition
 *  Token-based authentication
 
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
